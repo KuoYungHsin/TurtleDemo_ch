@@ -1,0 +1,65 @@
+﻿陰陽	yin
+陰陽
+
+筆寬	width
+ペン幅
+
+顏色	color
+カラー
+
+開始填充	begin_fill
+塗りつぶ_開始
+
+結束填充	end_fill
+塗りつぶ_終わり
+
+畫圓	circle
+絵画_円形
+
+左轉	left
+左
+
+右轉	right
+右折
+
+前進	forward
+進める
+
+後退	backward
+後退
+
+半徑長	radius
+半径の長さ
+
+提筆	up
+アップ_ペン
+
+下筆	down
+ダウン_ペン
+
+重設	reset
+リセット
+
+藏龜	ht
+隠すカメ
+
+主函數	main
+主な機能
+
+主迴圈	mainloop
+メインループ
+
+黑	black
+黒
+
+白	white
+白
+
+結束	Done
+終わり
+
+印	print
+印刷
+
+訊息	msg
+メッセージ
