@@ -14,7 +14,7 @@ parallel.
 
 Followed by a complete 回復().
 """
-from turtle_tc_01 import *
+from turtle_tc import *
 from time import clock, sleep
 
 def mn_eck(p, ne,sz):

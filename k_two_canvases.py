@@ -5,7 +5,7 @@
 for drawing on two distinct canvases.
 """
 import tkinter as TK
-from turtle_tc_01 import *    #new
+from turtle_tc import *    #new
 root = TK.Tk()
 畫布1 = TK.Canvas(root, width=300, height=200, bg="#ddffff") #筆寬=>width
 畫布2 = TK.Canvas(root, width=300, height=200, bg="#ffeeee")

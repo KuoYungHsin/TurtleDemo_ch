@@ -16,7 +16,7 @@ A simple  eventdriven paint program
           To exit press STOP button
  -------------------------------------------
 """
-from turtle_tc_01 import *
+from turtle_tc import *
 
 def  下筆切換(x=0, y=0):
     if 筆()["pendown"]:

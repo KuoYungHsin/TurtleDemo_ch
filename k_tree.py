@@ -18,7 +18,7 @@ are 1024 龜群.
 """
 
 from time import clock
-from turtle_tc_01 import * #new
+from turtle_tc import * #new
 
 def 畫樹(plist, l, a, f):
     """ plist is list of pens

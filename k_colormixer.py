@@ -2,7 +2,7 @@
 # colormixer
 
 
-from turtle_tc_01 import * #NEW
+from turtle_tc import * #NEW
 import sys
 sys.setrecursionlimit(20000)   # overcomes, for now, an instability of Python 3.0
 

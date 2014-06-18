@@ -18,7 +18,7 @@ colorloop:
 一個非常簡單的畫圖程式例子
 """
 
-from turtle_tc_01 import *
+from turtle_tc import *
 
 def 主函數():
     標誌顏色表 = ("red3",  橙, 黃,

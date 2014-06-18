@@ -12,7 +12,7 @@ command.
 
 """
 
-from turtle_tc_01 import *
+from turtle_tc import *
 
 def 陰陽(半徑長, 顏色1, 顏色2):
     筆寬(3)
